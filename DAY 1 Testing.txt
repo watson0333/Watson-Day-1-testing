@@ -1,0 +1,135 @@
+        DAY 1 OVERVIEW OF MANUAL TESTING
+
+
+TEST ID; 01
+Test Scenario; want to log in account with a valid email id password monitor and manage the entire admin dashboard
+
+TEST STEPS
+
+*go to https://studenthostel.neohore.io/
+*click login option for admin
+*Enter admin field as ui
+*Enter test @1234 as a password 
+*click login button
+
+TEST DATA
+
+*login id:admin pass:test
+
+EXCEPTED RESULT 
+
+*it display dashboard succesfully
+
+POST CONDITION
+*Admin dashboard can be monitered and managed 
+
+STATUS
+pass
+========================================================================================================================================================================
+
+TEST ID; 02
+Test Scenario; I want to login with valid mail id and password so that ican monitor and manage the entire admin dashboard and activities
+
+TEST STEPS
+
+*go to https://studenthostel.neohore.io/
+*click login option for admin
+*Enter admin field as ui
+*Enter test @1234 as a password 
+*click login button
+*Check the availability of details in Dashboard
+
+TEST DATA
+
+*login id:admin pass:test
+
+EXCEPTED RESULT 
+
+*it display dashboard succesfully
+
+POST CONDITION
+*Admin dashboard can be monitered and managed 
+
+STATUS
+pass
+
+========================================================================================================================================================================
+TEST ID; 03
+Test Scenario; I Want to login to my account with a valid email id and password so that i can acces the course section
+
+TEST STEPS
+
+*go to https://studenthostel.neohore.io/
+*click login option for admin
+*Enter admin field as ui
+*Enter test @1234 as a password 
+*click login button
+*Access the course section like adding and update the details
+
+TEST DATA
+
+*login id:admin pass:test
+
+EXCEPTED RESULT 
+
+*it display dashboard succesfully
+
+POST CONDITION
+*Admin dashboard can be accessed and monitered and managed 
+
+STATUS
+pass
+
+=========================================================================================================================================================================
+
+TEST ID; 04
+Test Scenario; I want to log in my account with a valid mail id and password so that i can access the rooms section
+
+TEST STEPS
+
+*go to https://studenthostel.neohore.io/
+*click login option for admin
+*Enter admin field as ui
+*Enter test @1234 as a password 
+*click login button
+
+TEST DATA
+
+*login id:admin pass:test
+
+EXCEPTED RESULT 
+
+*it display dashboard succesfully
+
+POST CONDITION
+*Admin dashboard can be accesed or monitered and managed 
+
+STATUS
+pass
+=========================================================================================================================================================================
+
+TEST ID; 05
+Test Scenario; want to log in account with a valid email id password monitor and manage the entire admin dashboard
+
+TEST STEPS
+
+*go to https://studenthostel.neohore.io/
+*click login option for admin
+*Enter admin field as ui
+*Enter test @1234 as a password 
+*click login button
+
+TEST DATA
+
+*login id:admin pass:test
+
+EXCEPTED RESULT 
+
+*it display dashboard succesfully
+
+POST CONDITION
+*Admin dashboard can be monitered and managed 
+
+STATUS
+pass
+=========================================================================================================================================================================
